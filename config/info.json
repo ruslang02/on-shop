@@ -1,0 +1,22 @@
+{
+	"phone1": "+7 (800) 555-35-35",
+	"phone2": "+1 (415) 555-26-71",
+	"localizedStrings": {
+		"login": {
+			"en": "Log In",
+			"ru": "Войти"
+		},
+		"register": {
+			"en": "Register",
+			"ru": "Регистрация"
+		},
+		"name": {
+			"en": "Online Store",
+			"ru": "Интернет-магазин"
+		},
+		"promo": {
+			"en": "A short description of your shopping mart can be written here. It will be seen only on the main page.",
+			"ru": "Дайте короткое описание вашего магазина. Оно будет показываться только на главной странице."
+		}
+	}
+}
